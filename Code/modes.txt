@@ -1,0 +1,13 @@
+Basic principle - top right is mode selector, top left is modifier
+
+Mode 1: Blank/lights mode selector - modifier key to choose different light operation
+Mode 2: Numbers 0-9
+Mode 3: Play/pause, mute, volume up/down + F13-F18, modifier for F19-F24
+Mode 4: Zynthian control, qw er as df, modifier for i o k l
+Mode 5: Midi drumpad, modifier for softer velocity
+Mode 6: Midi CC, modifier for finer / slower control
+
+Light operations:
+Buttons trigger random, buttons trigger specific patterns
+Buttons lights off, additive, toggles
+Mode only shown when mode selector pressed, mode shown all the time
